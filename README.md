@@ -1,1 +1,1 @@
-# Invisble-Man-last-version Game from pygame
+# Invisible-Man-last-version Game from pygame
